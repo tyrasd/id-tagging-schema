@@ -86,7 +86,6 @@ jobs:
 
       - name: Clean up artifact
         uses: actions/github-script@v6
-        id: pull-request-number
         with:
           result-encoding: string
           script: |
