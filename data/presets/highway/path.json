@@ -6,6 +6,7 @@
         "width",
         "structure",
         "access",
+        "sac_scale",
         "incline"
     ],
     "moreFields": [
@@ -21,7 +22,6 @@
         "mtb/scale/uphill",
         "not/name",
         "ref",
-        "sac_scale",
         "smoothness",
         "stroller",
         "trail_visibility",
