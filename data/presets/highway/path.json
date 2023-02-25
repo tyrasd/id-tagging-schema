@@ -2,6 +2,7 @@
     "icon": "iD-other-line",
     "fields": [
         "name",
+        "ref",
         "surface",
         "width",
         "structure",
@@ -22,7 +23,6 @@
         "mtb/scale/imba",
         "mtb/scale/uphill",
         "not/name",
-        "ref",
         "smoothness",
         "stroller",
         "wheelchair"
