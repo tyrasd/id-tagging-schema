@@ -3,7 +3,6 @@
     "fields": [
         "name",
         "shop",
-        "operator",
         "address",
         "building_area_yes",
         "opening_hours",
@@ -11,6 +10,7 @@
         "phone"
     ],
     "moreFields": [
+        "operator",
         "air_conditioning",
         "branch_brand",
         "brand",
