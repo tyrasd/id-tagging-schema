@@ -7,6 +7,7 @@
         "structure",
         "access",
         "sac_scale",
+        "trail_visibility",
         "incline"
     ],
     "moreFields": [
@@ -24,7 +25,6 @@
         "ref",
         "smoothness",
         "stroller",
-        "trail_visibility",
         "wheelchair"
     ],
     "geometry": [
