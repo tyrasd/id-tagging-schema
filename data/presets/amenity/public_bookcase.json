@@ -5,14 +5,14 @@
         "public_bookcase/type",
         "operator",
         "capacity",
-        "lit"
+        "lit",
+        "covered"
     ],
     "moreFields": [
         "access_simple",
         "address",
         "branch_brand",
         "brand",
-        "covered",
         "email",
         "indoor",
         "level",
