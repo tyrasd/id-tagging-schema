@@ -1,0 +1,39 @@
+{
+    "icon": "fas-map",
+    "fields": [
+        "name",
+        "public_bookcase/type",
+        "operator",
+        "capacity",
+        "lit",
+        "covered"
+    ],
+    "moreFields": [
+        "access_simple",
+        "address",
+        "branch_brand",
+        "brand",
+        "email",
+        "indoor",
+        "level",
+        "location",
+        "opening_hours",
+        "opening_hours/covid19",
+        "phone",
+        "ref",
+        "wheelchair"
+    ],
+    "geometry": [
+        "point",
+        "area"
+    ],
+    "terms": [
+        "library",
+        "bookcrossing"
+    ],
+    "tags": {
+        "amenity": "public_bookcase",
+        "public_bookcase": "maps"
+    },
+    "name": "Public Map Cabinet"
+}
